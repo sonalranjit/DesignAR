@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sonal/AndroidStudioProjects/tango-examples-java/java_plane_fitting_example/app/build/intermediates/exploded-aar/java_plane_fitting_example/java_examples_utils/unspecified/jars/libs/tango_java_lib.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="b86fcb0dc3efa71caab65f0a880bea840c56a8ff">
+        <dex dex="/Users/sonal/AndroidStudioProjects/tango-examples-java/java_plane_fitting_example/app/build/intermediates/pre-dexed/debug/tango_java_lib_d807926b394f0f19f12ccce06c538163cb75af20.jar" />
+    </item>
+    <item
+        jar="/Users/sonal/AndroidStudioProjects/tango-examples-java/java_plane_fitting_example/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="0eea7deecca17dca03f729b0287220f6b007f09d">
+        <dex dex="/Users/sonal/AndroidStudioProjects/tango-examples-java/java_plane_fitting_example/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b68035a8d2c71c24ae0c14bcff5697774d8f74a5.jar" />
+    </item>
+    <item
+        jar="/Users/sonal/AndroidStudioProjects/tango-examples-java/java_plane_fitting_example/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="b2b05cb0d9f1282aba6137a9d6e1ca64cacb42a1">
+        <dex dex="/Users/sonal/AndroidStudioProjects/tango-examples-java/java_plane_fitting_example/app/build/intermediates/pre-dexed/debug/instant-run_da24263e0c6b1c4a3ab466e328d3238275c91686.jar" />
+    </item>
+    <item
+        jar="/Users/sonal/AndroidStudioProjects/tango-examples-java/java_plane_fitting_example/app/build/intermediates/exploded-aar/tango_support_java_lib/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="2d6959bdf25f0d05e6a4c7093324ce6792986d13">
+        <dex dex="/Users/sonal/AndroidStudioProjects/tango-examples-java/java_plane_fitting_example/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-tango_support_java_lib_f01b34f302eb3a8a3dc6a311eb9a0576779559cb.jar" />
+    </item>
+    <item
+        jar="/Users/sonal/AndroidStudioProjects/tango-examples-java/java_plane_fitting_example/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="d2d9278b181a6f41ac9fa2b4e18f873cd6a5b7d7">
+        <dex dex="/Users/sonal/AndroidStudioProjects/tango-examples-java/java_plane_fitting_example/app/build/intermediates/pre-dexed/debug/org.rajawali3d-rajawali-1.0.294-SNAPSHOT_e45ff6737fd233cc37f92b045fae2f62dbbafb13.jar" />
+    </item>
+
+</items>
